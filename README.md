@@ -10,7 +10,7 @@ Objective: The primary goal of this project is to provide a comprehensive segmen
 Getting Started:
 Clone the repository:
 
-git clone https://github.com/aaryan393/EV_segmentation.git
+git clone https://github.com/Masterchaitali/EV_segmentation.git
 cd EV_segmentation
 Set up the virtual environment (optional but recommended):
 
